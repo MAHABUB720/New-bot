@@ -10,7 +10,7 @@
 
 <h3 align="center">𝙼𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=𝙒𝘼𝙏𝘾𝙃𝙄𝙉𝙂+𝘼𝙉𝙄𝙈𝙀+𝙎𝙀𝙍𝙄𝙀𝙄'𝙎;𝙂𝙄𝙍𝙇𝙎+&+𝙇𝘼𝙍𝙉𝙄𝙉𝙂+𝘾𝙊𝘿𝙄𝙉𝙂;𝙏𝙝𝙖𝙩𝙨+𝙖𝙡𝙡" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=𝙒𝘼𝙏𝘾𝙃𝙄𝙉𝙂+𝘼𝙉𝙄𝙈𝙀+𝙎𝙀𝙍𝙄𝙀𝙄'𝙎;𝙂𝙄𝙍𝙇𝙎;𝙇𝘼𝙍𝙉𝙄𝙉𝙂+𝘾𝙊𝘿𝙄𝙉𝙂;𝙏𝙝𝙖𝙩𝙨+𝙖𝙡𝙡" width="auto" height="35"/>
 </p>
 
 <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
